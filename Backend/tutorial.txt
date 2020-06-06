@@ -1,0 +1,26 @@
+Add npm - gerenciador de linguagem do javascript, chocolatey - gerenciador do windows, yarn - gerenciador de pacotes javascript, cinst install nodejs
+
+ide - vs code -> dracula, material icon theme, fira code(juntar letras)
+
+criado a pasta -> yarn -y, yarn add express
+
+restart a cada mudança no código -> yarn add nodemon -D, -D = apenas enquanto estiver em desenvolvimento.
+
+packages.json ->   "scripts": {
+    "dev": "nodemon src/server.js"
+  }
+
+para utilizar sql relacional, pesquisar sequelize.
+
+mongodb atlas.. nosql database
+
+yarn add mongoose
+
+verificar se esta atras de um proxe: portquiz.net:27017
+
+yarn add multer - upload de imagens
+
+Sketch -> ferramenta de design(prototipagem)
+
+yarn add cors
+ - habilita api para acessos externos.
