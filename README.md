@@ -37,6 +37,5 @@ After click, just set your date...
 
 ![WhatsApp Image 2020-06-06 at 13 33 00](https://user-images.githubusercontent.com/53230835/83949455-446edc00-a7fa-11ea-901a-52a3b96fa5fe.jpeg)
 
-
-
-
+information will automatically appear so that the spot can accept your request or not
+![teste](https://user-images.githubusercontent.com/53230835/83949589-20f86100-a7fb-11ea-9903-06676e1c484a.jpg)
