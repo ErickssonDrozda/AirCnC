@@ -39,3 +39,5 @@ After click, just set your date...
 
 information will automatically appear so that the spot can accept your request or not
 ![teste](https://user-images.githubusercontent.com/53230835/83949589-20f86100-a7fb-11ea-9903-06676e1c484a.jpg)
+
+This project is not available on the cloud.. but you can download the source files and try on your machine!! 
