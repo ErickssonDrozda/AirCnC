@@ -1,0 +1,9 @@
+1 - yarn add socket.io
+    - depencias para respostas em tempo real do lado do servidor
+    - Backend
+
+2 - yarn add socket.io-cliente
+    - Dependencias para o lado cliente
+    - frontend
+    - mobile
+

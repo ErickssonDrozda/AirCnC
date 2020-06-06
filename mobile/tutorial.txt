@@ -1,0 +1,17 @@
+--mobile
+
+1 - npm install -g expo-cli
+ - instala todas as dependencias para a criação de um projeto mobile
+
+2 - expo init mobile
+ - dando inicio a um projeto web
+ - para emular um android -> genymotion fun zone
+
+ 3 - yarn add react-navigation
+  - adicionar rotas do mobile
+
+4 - yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+ - dependencias do navigation (3)
+
+5 - yarn add axios
+ - comunicação com a api

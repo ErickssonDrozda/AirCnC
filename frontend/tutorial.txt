@@ -1,0 +1,8 @@
+1 - yarn create react-app frontend
+  - comando que cria tudo para você.
+
+ 2- yarn add axios
+  - comando para fazer requisições nas api's
+
+3- yarn add react-router-dom
+ - comando para fazer rotas no site 
